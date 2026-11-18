@@ -1,0 +1,8 @@
+Logical Separation Separate storage space for each tenant 
+IAM Controls who can access data 
+Access Control Policies Defines read, write, and delete permissions 
+Encryption at Rest Protects stored data 
+Encryption in Transit Protects data during transfer 
+Secure Deletion Ensures deleted data cannot be recovered 
+Backup & Recovery Protects against data loss 
+Monitoring & Logging Detects unauthorize
